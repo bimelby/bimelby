@@ -34,21 +34,6 @@
     <span>Android</span>
   </a>
 
-  <!-- Microsoft Azure -->
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="40" height="40"/>
-    <span>Azure</span>
-  </a>
-
-
-  <!-- Blender -->
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40"/>
-    <span>Blender</span>
-  </a>
-
-
-  
 
   <!-- CSS3 -->
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
